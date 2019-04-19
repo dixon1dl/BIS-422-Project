@@ -1,0 +1,159 @@
+C:\Documents and Settings\mille5re\Local Settings\Application Data\Temporary Projects\AUBuilding\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mille5re\Local Settings\Application Data\Temporary Projects\AUBuilding\obj\Debug\AUBuilding.Add.resources
+C:\Documents and Settings\mille5re\Local Settings\Application Data\Temporary Projects\AUBuilding\obj\Debug\AUBuilding.Main.resources
+C:\Documents and Settings\mille5re\Local Settings\Application Data\Temporary Projects\AUBuilding\obj\Debug\AUBuilding.Resources.resources
+C:\Documents and Settings\mille5re\Local Settings\Application Data\Temporary Projects\AUBuilding\obj\Debug\AUBuilding.vbproj.GenerateResource.Cache
+C:\Documents and Settings\mille5re\Local Settings\Application Data\Temporary Projects\AUBuilding\bin\Debug\AUBuilding.exe
+C:\Documents and Settings\mille5re\Local Settings\Application Data\Temporary Projects\AUBuilding\bin\Debug\AUBuilding.pdb
+C:\Documents and Settings\mille5re\Local Settings\Application Data\Temporary Projects\AUBuilding\bin\Debug\AUBuilding.xml
+C:\Documents and Settings\mille5re\Local Settings\Application Data\Temporary Projects\AUBuilding\obj\Debug\AUBuilding.Retrieve.resources
+C:\Documents and Settings\mille5re\Local Settings\Application Data\Temporary Projects\AUBuilding\obj\Debug\AUBuilding.exe
+C:\Documents and Settings\mille5re\Local Settings\Application Data\Temporary Projects\AUBuilding\obj\Debug\AUBuilding.xml
+C:\Documents and Settings\mille5re\Local Settings\Application Data\Temporary Projects\AUBuilding\obj\Debug\AUBuilding.pdb
+C:\Documents and Settings\mille5re\My Documents\Visual Studio 2008\Projects\AUBuilding\AUBuilding\obj\Debug\AUBuilding.exe
+C:\Documents and Settings\mille5re\My Documents\Visual Studio 2008\Projects\AUBuilding\AUBuilding\obj\Debug\AUBuilding.xml
+C:\Documents and Settings\mille5re\My Documents\Visual Studio 2008\Projects\AUBuilding\AUBuilding\obj\Debug\AUBuilding.pdb
+U:\New BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.exe
+U:\New BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.xml
+U:\New BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.pdb
+U:\New BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.exe
+U:\New BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.pdb
+U:\New BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.xml
+U:\New BIS 422\AUBuilding\AUBuilding\obj\Debug\ResolveAssemblyReference.cache
+U:\New BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Add.resources
+U:\New BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Main.resources
+U:\New BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Resources.resources
+U:\New BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Retrieve.resources
+U:\New BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.vbproj.GenerateResource.Cache
+U:\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.exe
+U:\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.xml
+U:\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.pdb
+U:\Fall 2012\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.exe
+U:\Fall 2012\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.pdb
+U:\Fall 2012\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.xml
+U:\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\ResolveAssemblyReference.cache
+U:\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Add.resources
+U:\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Main.resources
+U:\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Resources.resources
+U:\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Retrieve.resources
+\\tsclient\U\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.exe
+\\tsclient\U\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.xml
+\\tsclient\U\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.pdb
+\\tsclient\U\Fall 2012\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.exe
+\\tsclient\U\Fall 2012\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.pdb
+\\tsclient\U\Fall 2012\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.xml
+\\tsclient\U\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\ResolveAssemblyReference.cache
+\\tsclient\U\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Add.resources
+\\tsclient\U\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Main.resources
+\\tsclient\U\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Resources.resources
+\\tsclient\U\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Retrieve.resources
+\\tsclient\U\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\tsclient\U\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\GenerateResource-ResGen.write.1.tlog
+U:\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\GenerateResource-ResGen.read.1.tlog
+U:\Fall 2012\BIS 422\AUBuilding\AUBuilding\obj\Debug\GenerateResource-ResGen.write.1.tlog
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.exe
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.xml
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.pdb
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.exe
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.pdb
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.xml
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\ResolveAssemblyReference.cache
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Add.resources
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Main.resources
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Resources.resources
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Report.resources
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Retrieve.resources
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\GenerateResource-ResGen.read.1.tlog
+U:\Spring 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\mille5re\Documents\Past Classes\Fall 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.exe
+C:\Users\mille5re\Documents\Past Classes\Fall 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.xml
+C:\Users\mille5re\Documents\Past Classes\Fall 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.pdb
+C:\Users\mille5re\Documents\Past Classes\Fall 2013\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.exe
+C:\Users\mille5re\Documents\Past Classes\Fall 2013\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.pdb
+C:\Users\mille5re\Documents\Past Classes\Fall 2013\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.xml
+C:\Users\mille5re\Documents\Past Classes\Fall 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Add.resources
+C:\Users\mille5re\Documents\Past Classes\Fall 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Main.resources
+C:\Users\mille5re\Documents\Past Classes\Fall 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Resources.resources
+C:\Users\mille5re\Documents\Past Classes\Fall 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Report.resources
+C:\Users\mille5re\Documents\Past Classes\Fall 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Retrieve.resources
+C:\Users\mille5re\Documents\Past Classes\Fall 2013\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.vbproj.GenerateResource.Cache
+U:\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.exe
+U:\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.xml
+U:\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.pdb
+U:\Fall 2014\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.exe
+U:\Fall 2014\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.pdb
+U:\Fall 2014\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.xml
+U:\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Add.resources
+U:\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Main.resources
+U:\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Resources.resources
+U:\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Report.resources
+U:\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Retrieve.resources
+U:\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.vbproj.GenerateResource.Cache
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.exe
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.xml
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.pdb
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.exe
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.pdb
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\bin\Debug\AUBuilding.xml
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\ResolveAssemblyReference.cache
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Add.resources
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Main.resources
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Resources.resources
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Report.resources
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Retrieve.resources
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\tsclient\U\Fall 2014\BIS 422\AUBuilding\AUBuilding\obj\Debug\GenerateResource-ResGen.write.1.tlog
+U:\Courses\BIS 422\AU\AUBuilding\AUBuilding\obj\Debug\AUBuilding.exe
+U:\Courses\BIS 422\AU\AUBuilding\AUBuilding\obj\Debug\AUBuilding.xml
+U:\Courses\BIS 422\AU\AUBuilding\AUBuilding\obj\Debug\AUBuilding.pdb
+U:\Courses\BIS 422\AU\AUBuilding\AUBuilding\bin\Debug\AUBuilding.exe
+U:\Courses\BIS 422\AU\AUBuilding\AUBuilding\bin\Debug\AUBuilding.pdb
+U:\Courses\BIS 422\AU\AUBuilding\AUBuilding\bin\Debug\AUBuilding.xml
+U:\Courses\BIS 422\AU\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Add.resources
+U:\Courses\BIS 422\AU\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Main.resources
+U:\Courses\BIS 422\AU\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Resources.resources
+U:\Courses\BIS 422\AU\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Report.resources
+U:\Courses\BIS 422\AU\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Retrieve.resources
+U:\Courses\BIS 422\AU\AUBuilding\AUBuilding\obj\Debug\AUBuilding.vbproj.GenerateResource.Cache
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.exe
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.xml
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.pdb
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\AUBuilding\obj\Debug\AUBuilding.exe
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\AUBuilding\obj\Debug\AUBuilding.xml
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\AUBuilding\obj\Debug\AUBuilding.pdb
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\bin\Debug\AUBuilding.exe
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\bin\Debug\AUBuilding.pdb
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\bin\Debug\AUBuilding.xml
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.vbprojResolveAssemblyReference.cache
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Add.resources
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Main.resources
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Resources.resources
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Retrieve.resources
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.vbproj.GenerateResource.Cache
+C:\Users\mille5re\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.vbproj.CoreCompileInputs.cache
+C:\Users\dixon1dl\Desktop\AUBuilding\AUBuilding\bin\Debug\AUBuilding.exe
+C:\Users\dixon1dl\Desktop\AUBuilding\AUBuilding\bin\Debug\AUBuilding.pdb
+C:\Users\dixon1dl\Desktop\AUBuilding\AUBuilding\bin\Debug\AUBuilding.xml
+C:\Users\dixon1dl\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.vbprojResolveAssemblyReference.cache
+C:\Users\dixon1dl\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Add.resources
+C:\Users\dixon1dl\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Main.resources
+C:\Users\dixon1dl\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Resources.resources
+C:\Users\dixon1dl\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Retrieve.resources
+C:\Users\dixon1dl\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.vbproj.GenerateResource.Cache
+C:\Users\dixon1dl\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.vbproj.CoreCompileInputs.cache
+C:\Users\dixon1dl\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.exe
+C:\Users\dixon1dl\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.xml
+C:\Users\dixon1dl\Desktop\AUBuilding\AUBuilding\obj\Debug\AUBuilding.pdb
+U:\AUBuilding\AUBuilding\bin\Debug\AUBuilding.exe
+U:\AUBuilding\AUBuilding\bin\Debug\AUBuilding.pdb
+U:\AUBuilding\AUBuilding\bin\Debug\AUBuilding.xml
+U:\AUBuilding\AUBuilding\obj\Debug\AUBuilding.vbprojResolveAssemblyReference.cache
+U:\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Add.resources
+U:\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Main.resources
+U:\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Resources.resources
+U:\AUBuilding\AUBuilding\obj\Debug\AUBuilding.Retrieve.resources
+U:\AUBuilding\AUBuilding\obj\Debug\AUBuilding.vbproj.GenerateResource.Cache
+U:\AUBuilding\AUBuilding\obj\Debug\AUBuilding.vbproj.CoreCompileInputs.cache
+U:\AUBuilding\AUBuilding\obj\Debug\AUBuilding.exe
+U:\AUBuilding\AUBuilding\obj\Debug\AUBuilding.xml
+U:\AUBuilding\AUBuilding\obj\Debug\AUBuilding.pdb
